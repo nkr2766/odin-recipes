@@ -1,0 +1,23 @@
+.header {
+    display: block;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #ae21d17c;
+    border: solid 2px #000000;
+    padding: 10px;
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
+
+}
+
+
+.list {
+    display: block;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #5621d144;
+    border: solid 2px #371a9e50;
+    padding-left: 10px;
+    margin-left: 350px;
+    margin-right: 350px;
+    
+}
